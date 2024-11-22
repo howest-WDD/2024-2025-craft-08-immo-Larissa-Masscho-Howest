@@ -1,4 +1,4 @@
-dateModified: 1732265662
+dateModified: 1732269981
 email:
   fromEmail: voornaam.naam@howest.be
   fromName: 'Craft Template'
@@ -19,6 +19,7 @@ meta:
     35c35080-108d-485f-925f-407a5ab65a22: Cover # Cover
     59c2641c-9084-4d94-9ec1-6bb70e052862: Strengths # Strengths
     98b79b5d-0627-463e-8897-76e2418542fa: Carousel # Carousel
+    720efec2-1362-432c-9f9a-09f2096850ff: Categories # Categories
     955b3b78-0dbd-47ac-9db5-c15151bf0b94: Details # Details
     1094b8b3-5e0b-4264-b997-5e1e4110a127: House # House
     19178fcc-602e-4e2e-a2a4-abf44f2ec6a3: House # House
@@ -28,7 +29,9 @@ meta:
     bfc5caff-33ac-495a-8336-7abe2887b021: 'Public Schema' # Public Schema
     d3b42bd7-e7fb-4536-8773-1f5957362b49: Price # Price
     e2e222ba-6107-4ebe-ba6f-c26cc3a40dd8: 'Plain Text' # Plain Text
+    ed3901d5-4114-49dc-9d71-930dd8b19ad1: Category # Category
     f6eaef1f-2f88-4856-8eee-c5ae9620f572: 'Craft Template' # Craft Template
+    fcc52eaa-a16f-41f6-b097-60abcb0d4511: Categories # Categories
 plugins:
   ckeditor:
     edition: standard
