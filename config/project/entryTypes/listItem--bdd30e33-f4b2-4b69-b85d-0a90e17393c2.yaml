@@ -1,0 +1,37 @@
+color: pink
+fieldLayouts:
+  dfd75748-5854-4d43-ae3c-e1bccd35f844:
+    tabs:
+      -
+        elementCondition: null
+        elements:
+          -
+            dateAdded: '2024-11-22T08:53:43+00:00'
+            elementCondition: null
+            fieldUid: e2e222ba-6107-4ebe-ba6f-c26cc3a40dd8 # Plain Text
+            handle: listItem
+            includeInCards: false
+            instructions: null
+            label: 'List Item'
+            providesThumbs: false
+            required: false
+            tip: null
+            type: craft\fieldlayoutelements\CustomField
+            uid: 78b5f611-760b-4030-8eec-e64aee27a113
+            userCondition: null
+            warning: null
+            width: 100
+        name: Content
+        uid: 584de838-9edf-4d4b-bb01-55e7cad39155
+        userCondition: null
+handle: listItem
+hasTitleField: false
+icon: input-numeric
+name: 'List Item'
+showSlugField: true
+showStatusField: true
+slugTranslationKeyFormat: null
+slugTranslationMethod: site
+titleFormat: ''
+titleTranslationKeyFormat: null
+titleTranslationMethod: site
